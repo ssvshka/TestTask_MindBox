@@ -1,0 +1,12 @@
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\bin\Debug\net6.0\ShapeAreas.deps.json
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\bin\Debug\net6.0\ShapeAreas.dll
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\bin\Debug\net6.0\ShapeAreas.pdb
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\ShapeAreas.csproj.AssemblyReference.cache
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\ShapeAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\ShapeAreas.AssemblyInfoInputs.cache
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\ShapeAreas.AssemblyInfo.cs
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\ShapeAreas.csproj.CoreCompileInputs.cache
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\ShapeAreas.dll
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\refint\ShapeAreas.dll
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\ShapeAreas.pdb
+C:\Users\Сэрый\source\repos\ShapeAreas\ShapeAreas\obj\Debug\net6.0\ref\ShapeAreas.dll
